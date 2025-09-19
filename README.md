@@ -1,4 +1,4 @@
--git clone https://github.com/AlexJosua/inventory-dashboard.git
+-git clone https://github.com/AlexJosua/inventory-api.git
 
 -cd inventory-api
 
